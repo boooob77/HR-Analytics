@@ -44,11 +44,11 @@ The objective of this project is to help HR teams understand the factors contrib
 
 ### Executive Summary
 
-![Executive Summary](images/executive-summary.png)
+![Executive Summary](images/Executive-Summary.png)
 
 ### Attrition Deep Dive
 
-![Attrition Deep Dive](images/attrition.png)
+![Attrition Deep Dive](images/Attrition.png)
 
 ### Satisfaction & Engagement
 
