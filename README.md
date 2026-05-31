@@ -44,7 +44,7 @@ The objective of this project is to help HR teams understand the factors contrib
 
 ### Executive Summary
 
-![Executive Summary](images/Executive-Summary.png)
+![Executive Summary](images/Executive%20Summary.png)
 
 ### Attrition Deep Dive
 
